@@ -28,7 +28,7 @@ The findings challenge preconceived notions about the predictability of model pe
 
 ## Acknowledgements
 
-Special thanks to Polina Tsvilodub for her invaluable project guidance and support. Our gratitude extends to the developer behind spaCy-cleaner, whose code significantly contributed to our linguistic analysis.
+We want to thank the developer of the spaCy-cleaner for the code on GitHub that we could adapt for our linguistic analysis 6. We also want to thank Polina Tsvilodub for the project idea, her advice and support, and for running the reward model.
 
 ## How to Use
 
