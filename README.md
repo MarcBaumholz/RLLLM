@@ -35,7 +35,7 @@ We want to thank the developer of the spaCy-cleaner for the code on GitHub that 
 ## How to Use
 
 1. **Installation**: Ensure you have Python 3.x installed. Clone the repository and install dependencies from `requirements.txt`.
-2. **Running Analyses**: Navigate to the project directory and execute the scripts as described in the documentation.
+2. **Running Analyses**: Navigate to the project directory and execute the scripts as described in the documentation. Make sure that the data is located in the corresponding folder.
 3. **Evaluating Model Performance**: Use the provided notebooks to replicate our evaluation process or to analyze new datasets.
 
 ## Contributing
