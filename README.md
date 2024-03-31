@@ -22,6 +22,8 @@ Our methodology includes linguistic analysis of the training and test datasets, 
 
 Our study found no significant overfitting towards features dominant in the fine-tuning dataset. The model exhibited robustness, with human quality judgments closely aligning with the reward model's evaluations across various inputs. This suggests that RLHF-trained models can effectively capture linguistic diversity without bias towards specific linguistic features.
 
+The linguistic analysis of the training set is a large *csv* and can be found [here](https://drive.google.com/file/d/1qYGJKI-Q3F6Bl9PZMnWVg5C9KrvQ9lXd/view?usp=sharing).
+
 ## Discussion and Conclusion
 
 The findings challenge preconceived notions about the predictability of model performance based on specific linguistic features of the training data. This contributes to the discourse on dataset development and evaluation for RLHF, emphasizing the need for nuanced understanding and innovative evaluation methods.
